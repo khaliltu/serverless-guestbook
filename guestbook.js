@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = '';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/1cc37f6c-9573-4fd0-8421-46453d68a705/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
